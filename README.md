@@ -24,4 +24,4 @@
 - Introdução ao Web Scraping
 
 Segue o link para o curso 100% Gratuito.
-https://cutt.ly/gd2oRXn
+[Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos).
