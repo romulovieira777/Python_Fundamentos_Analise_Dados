@@ -1,7 +1,7 @@
 # Python Fundamentos para Análise de Dados
 ### Curso de Python Fundamentos para Análise de Dados na Data Science Academy 
 #### :computer: Temas abordados durante o curso foram :rocket:
-- Introdução
+- [Seção 01 - Introdução](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2001%20-%20Introdu%C3%A7%C3%A3o)
 - Variáveis
 - Tipos
 - Estruturas de Dados
