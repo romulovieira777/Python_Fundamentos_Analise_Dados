@@ -6,7 +6,7 @@
 - [Seção 03 - Loops, Condicionais, Métodos e Funções](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2003%20-%20Loops%2C%20Condicionais%2C%20M%C3%A9todos%20e%20Fun%C3%A7%C3%B5es)
 - [Seção 04 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2004%20-%20Tratamento%20de%20Arquivos%2C%20M%C3%B3dulos%2C%20Pacotes%20e%20Fun%C3%A7%C3%B5es%20Built-in)
 - [Seção 05 - Orientação a Objetos](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2005%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos)
-- Manipulando Banco de Dados
+- [Seção 06 - Manipulando Banco de Dados em Python](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2006%20-%20Manipulando%20Banco%20de%20Dados%20em%20Python)
 - Módulos Python para Análise de Dados
 - Introdução à Análise de Dados
 - Introdução ao TensorFlow
