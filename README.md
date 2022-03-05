@@ -1,4 +1,4 @@
-# Python Fundamentos para Análise de Dados
+# Python Fundamentos para Análise de Dados 👨‍💻🐍
 ### Curso de Python Fundamentos para Análise de Dados na Data Science Academy 
 #### :computer: Temas abordados durante o curso foram :rocket:
 - [Seção 01 - Introdução](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2001%20-%20Introdu%C3%A7%C3%A3o)
@@ -7,6 +7,7 @@
 - [Seção 04 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2004%20-%20Tratamento%20de%20Arquivos%2C%20M%C3%B3dulos%2C%20Pacotes%20e%20Fun%C3%A7%C3%B5es%20Built-in)
 - [Seção 05 - Orientação a Objetos](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2005%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos)
 - [Seção 06 - Manipulando Banco de Dados em Python](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2006%20-%20Manipulando%20Banco%20de%20Dados%20em%20Python)
+- [Seção 07 - Desafio DSA](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2007%20-%20Desafio%20DSA)
 - Módulos Python para Análise de Dados
 - Introdução à Análise de Dados
 - Introdução ao TensorFlow
