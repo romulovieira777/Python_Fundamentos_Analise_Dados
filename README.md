@@ -8,7 +8,7 @@
 - [Seção 05 - Orientação a Objetos](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2005%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos)
 - [Seção 06 - Manipulando Banco de Dados em Python](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2006%20-%20Manipulando%20Banco%20de%20Dados%20em%20Python)
 - [Seção 07 - Desafio DSA](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2007%20-%20Desafio%20DSA)
-- Módulos Python para Análise de Dados
+- [Seção 08 - Módulos Python para Análise de Dados](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2008%20-%20M%C3%B3dulos%20Python%20para%20An%C3%A1lise%20de%20Dados)
 - Introdução à Análise de Dados
 - Introdução ao TensorFlow
 - Introdução a Machine Learning
