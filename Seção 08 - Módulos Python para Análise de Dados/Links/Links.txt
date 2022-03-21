@@ -1,0 +1,13 @@
+Links
+
+-- PyData
+https://pydata.org/
+
+-- NumPy
+www.numpy.org
+
+-- Pandas
+pandas.pydata.org
+
+-- Matplotlib
+matplotlib.org/index.html
