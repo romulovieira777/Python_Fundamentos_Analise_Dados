@@ -11,3 +11,6 @@ pandas.pydata.org
 
 -- Matplotlib
 matplotlib.org/index.html
+
+-- SciPy
+https://scipy.org/
