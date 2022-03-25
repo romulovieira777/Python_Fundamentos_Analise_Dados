@@ -14,3 +14,6 @@ matplotlib.org/index.html
 
 -- SciPy
 https://scipy.org/
+
+-- Sckit Learn
+scikit-learn.org
