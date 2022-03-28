@@ -17,3 +17,9 @@ https://scipy.org/
 
 -- Sckit Learn
 scikit-learn.org
+
+-- Sckit Learn
+scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
+
+-- Bokeh
+bokeh.pydata.org/en/latest/
