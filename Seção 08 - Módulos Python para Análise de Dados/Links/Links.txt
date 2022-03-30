@@ -26,3 +26,6 @@ bokeh.pydata.org/en/latest/
 
 -- Stats Models
 statsmodels.org
+
+-- Seaborn
+seaborn.pydata.org
