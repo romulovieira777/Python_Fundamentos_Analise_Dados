@@ -23,3 +23,6 @@ scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
 
 -- Bokeh
 bokeh.pydata.org/en/latest/
+
+-- Stats Models
+statsmodels.org
