@@ -9,12 +9,13 @@
 - [Seção 06 - Manipulando Banco de Dados em Python](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2006%20-%20Manipulando%20Banco%20de%20Dados%20em%20Python)
 - [Seção 07 - Desafio DSA](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2007%20-%20Desafio%20DSA)
 - [Seção 08 - Módulos Python para Análise de Dados](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2008%20-%20M%C3%B3dulos%20Python%20para%20An%C3%A1lise%20de%20Dados)
-- [Seção 09 - Introdução à Análise de Dados com Python]()
-- Introdução ao TensorFlow
+- [Seção 09 - Introdução à Análise de Dados com Python](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2009%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20An%C3%A1lise%20de%20Dados%20com%20Python)
+- [Seção 10 - Introdução ao TensorFlow]()
 - Introdução a Machine Learning
 - Introdução a Deep Learning
 - Desenvolvimento Web
 - Introdução ao Web Scraping
+
 
 Segue o link para o curso 100% Gratuito.
 [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos).
