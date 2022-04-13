@@ -1,0 +1,8 @@
+-- Nvidia
+https://www.nvidia.com/pt-br/
+
+
+-- TensorFlow
+tensorflow.org
+
+https://www.tensorflow.org/install
