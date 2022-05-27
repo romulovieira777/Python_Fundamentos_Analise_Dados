@@ -14,7 +14,7 @@
 - [Seção 11 - Introdução a Machine Learning](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2011%20-%20Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning)
 - [Seção 12 - Introdução a Deep Learning](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2012%20-%20Introdu%C3%A7%C3%A3o%20a%20Deep%20Learning)
 - [Seção 13 - Desenvolvimento Web](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2013%20-%20Desenvolvimento%20Web)
-- Introdução ao Web Scraping
+- [Seção 14 - Introdução ao Web Scraping](https://github.com/romulovieira777/Python_Fundamentos_Analise_Dados/tree/master/Se%C3%A7%C3%A3o%2014%20-%20Introdu%C3%A7%C3%A3o%20ao%20Web%20Scraping)
 
 
 Segue o link para o curso 100% Gratuito.
